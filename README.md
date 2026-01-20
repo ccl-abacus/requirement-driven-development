@@ -38,7 +38,7 @@ If you don't have MCP servers configured:
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:chanchailee/requirement-driven-development.git
+git clone git@github.com:ccl-abacus/requirement-driven-development.git
 # rdd.md file is under requirement-driven-development/command folder
 cd requirement-driven-development/command
 ```
